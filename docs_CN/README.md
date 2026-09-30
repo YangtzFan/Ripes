@@ -1,5 +1,8 @@
 # Ripes 工程接手指南
 
+- [`LINUX_BUILD.md`](LINUX_BUILD.md)：Ubuntu/Linux 本机构建、测试和运行实录。
+- [`WINDOWS_BUILD.md`](WINDOWS_BUILD.md)：Windows 本机构建、测试、部署和运行实录。
+
 本文面向第一次接触 Ripes 源码的工程师，介绍仓库结构、构建和测试方法，以及从源代码到处理器模拟的主要运行链路。本文描述以当前分支代码为准；用户操作说明仍可参考 [`docs/`](../docs/) 下的英文文档。
 
 ## 1. 项目定位
