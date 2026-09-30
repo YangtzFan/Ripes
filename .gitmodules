@@ -7,3 +7,6 @@
 [submodule "external/libelfin"]
 	path = external/libelfin
 	url = https://github.com/mortbopet/libelfin
+[submodule "skills-study"]
+	path = skills-study
+	url = git@github.com:YangtzFan/skills-study.git
